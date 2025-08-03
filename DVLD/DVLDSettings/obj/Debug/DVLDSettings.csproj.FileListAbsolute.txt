@@ -1,0 +1,6 @@
+E:\Full Real Project 19\DVLDSettings\bin\Debug\DVLDSettings.dll
+E:\Full Real Project 19\DVLDSettings\bin\Debug\DVLDSettings.pdb
+E:\Full Real Project 19\DVLDSettings\obj\Debug\DVLDSettings.csproj.AssemblyReference.cache
+E:\Full Real Project 19\DVLDSettings\obj\Debug\DVLDSettings.csproj.CoreCompileInputs.cache
+E:\Full Real Project 19\DVLDSettings\obj\Debug\DVLDSettings.dll
+E:\Full Real Project 19\DVLDSettings\obj\Debug\DVLDSettings.pdb

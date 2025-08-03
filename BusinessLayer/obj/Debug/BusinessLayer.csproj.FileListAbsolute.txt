@@ -1,0 +1,22 @@
+E:\Full Real Project 19\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Full Real Project 19\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Full Real Project 19\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Full Real Project 19\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Full Real Project 19\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Full Real Project 19\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Full Real Project 19\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\Full Real Project 19\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Full Real Project 19\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Full Real Project 19\BusinessLayer\bin\Debug\DVLDSettings.dll
+E:\Full Real Project 19\BusinessLayer\bin\Debug\DVLDSettings.pdb
+E:\DVLD\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\DVLD\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\DVLD\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\DVLD\BusinessLayer\bin\Debug\DVLDSettings.dll
+E:\DVLD\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\DVLD\BusinessLayer\bin\Debug\DVLDSettings.pdb
+E:\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\DVLD\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\DVLD\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\DVLD\BusinessLayer\obj\Debug\BusinessLayer.pdb
